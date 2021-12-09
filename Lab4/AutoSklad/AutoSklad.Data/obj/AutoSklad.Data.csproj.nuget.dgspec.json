@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Data\\AutoSklad.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Core\\AutoSklad.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Core\\AutoSklad.Core.csproj",
+        "projectName": "AutoSklad.Core",
+        "projectPath": "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Core\\AutoSklad.Core.csproj",
+        "packagesPath": "C:\\Users\\romak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Data\\AutoSklad.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Data\\AutoSklad.Data.csproj",
+        "projectName": "AutoSklad.Data",
+        "projectPath": "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Data\\AutoSklad.Data.csproj",
+        "packagesPath": "C:\\Users\\romak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Core\\AutoSklad.Core.csproj": {
+                "projectPath": "C:\\Users\\romak\\Desktop\\Новая папка\\Lab4\\AutoSklad\\AutoSklad.Core\\AutoSklad.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

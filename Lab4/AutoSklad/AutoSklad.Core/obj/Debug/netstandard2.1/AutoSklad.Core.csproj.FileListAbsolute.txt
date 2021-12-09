@@ -1,0 +1,9 @@
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\bin\Debug\netstandard2.1\AutoSklad.Core.deps.json
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\bin\Debug\netstandard2.1\AutoSklad.Core.dll
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\bin\Debug\netstandard2.1\AutoSklad.Core.pdb
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\obj\Debug\netstandard2.1\AutoSklad.Core.csprojAssemblyReference.cache
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\obj\Debug\netstandard2.1\AutoSklad.Core.csproj.CoreCompileInputs.cache
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\obj\Debug\netstandard2.1\AutoSklad.Core.AssemblyInfoInputs.cache
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\obj\Debug\netstandard2.1\AutoSklad.Core.AssemblyInfo.cs
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\obj\Debug\netstandard2.1\AutoSklad.Core.dll
+C:\Users\romak\Desktop\Новая папка\Lab4\AutoSklad\AutoSklad.Core\obj\Debug\netstandard2.1\AutoSklad.Core.pdb
